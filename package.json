@@ -4,6 +4,6 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "prepare": "echo pwd && pwd && date > prepare.txt"
+    "prepare": "echo pwd && pwd && date > prepare.txt "
   }
 }
