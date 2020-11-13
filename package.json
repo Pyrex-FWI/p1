@@ -2,5 +2,8 @@
   "name": "p1",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "prepare": "echo pwd && pwd && date > prepare.txt && npm run build"
+  }
 }
